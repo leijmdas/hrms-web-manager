@@ -1,0 +1,186 @@
+{
+  "stockList": [
+    {
+      "stockNo": "PU16000003",
+      "invoiceNo": 12345678,
+      "supplierName": "广州德全汽配贸易有限公司",
+      "partsNum": 9999,
+      "sum": 9999,
+      "payMethod": "现金",
+      "createTime": 1466389001655,
+      "operator": "CXX",
+      "wareHouseNo": "库房"
+    },
+    {
+      "stockNo": "PU16000003",
+      "invoiceNo": 12345678,
+      "supplierName": "广州德全汽配贸易有限公司",
+      "partsNum": 9999,
+      "sum": 9999,
+      "payMethod": "现金",
+      "createTime": 1466389001655,
+      "operator": "CXX",
+      "wareHouseNo": "库房"
+    },
+    {
+      "stockNo": "PU16000003",
+      "invoiceNo": 12345678,
+      "supplierName": "广州德全汽配贸易有限公司",
+      "partsNum": 9999,
+      "sum": 9999,
+      "payMethod": "现金",
+      "createTime": 1466389001655,
+      "operator": "CXX",
+      "wareHouseNo": "库房"
+    }
+  ],
+  "partsList": [
+    {
+      "partsNo": "04111-0D252",
+      "partsName": "发动机大修包",
+      "carType": "ACV40-",
+      "stockNum": 20,
+      "unitName": "套",
+      "yen": 100,
+      "cost": 91,
+      "price": 100,
+      "tradePrice": 109.2,
+      "warehouseNo": "E10-01-08",
+      "placeOfOrigin": "上海",
+      "remark": "花冠",
+      "brandName": "丰田",
+      "partsTag": "配件分类3"
+    },
+    {
+      "partsNo": "04111-0D252",
+      "partsName": "发动机大修包",
+      "carType": "ACV40-",
+      "stockNum": 20,
+      "unitName": "套",
+      "yen": 100,
+      "cost": 91,
+      "price": 100,
+      "tradePrice": 109.2,
+      "warehouseNo": "E10-01-08",
+      "placeOfOrigin": "上海",
+      "remark": "花冠",
+      "brandName": "丰田",
+      "partsTag": "配件分类3"
+    },
+    {
+      "partsNo": "04111-0D252",
+      "partsName": "发动机大修包",
+      "carType": "ACV40-",
+      "stockNum": 20,
+      "unitName": "套",
+      "yen": 100,
+      "cost": 91,
+      "price": 100,
+      "tradePrice": 109.2,
+      "warehouseNo": "E10-01-08",
+      "placeOfOrigin": "上海",
+      "remark": "花冠",
+      "brandName": "丰田",
+      "partsTag": "配件分类3"
+    }
+  ],
+  "supplierList": [
+    {
+      "customerId": 1,
+      "customerName": "巴图撸",
+      "payType": 1
+    },
+    {
+      "customerId": 2,
+      "customerName": "撸巴图",
+      "payType": 3
+    },
+    {
+      "customerId": 3,
+      "customerName": "撸图巴",
+      "payType": 2
+    }
+  ],
+  "stockDetailBill": {
+    "partsCode": 12345,
+    "rmbpurchasePrice": 111,
+    "partsName": "中网",
+    "salesPrice": 140,
+    "carType": "丰田卡罗拉",
+    "batchSalesPrice": 130,
+    "originPlaceName": "伊利奥斯",
+    "partsBrandName": "配件分类2",
+    "warehouseName": "仓库1",
+    "unitName": "套",
+    "foreignCurrencyPrice": 100,
+    "stockInNum": 123,
+    "reamrk": "备注123",
+    "stockVOList": {}
+  },
+  "stockModify": [
+    {
+      "partsCode": "0411-12345",
+      "partsName": "发动机大修包",
+      "carType": "ZZE122AVC",
+      "warehouse": 999,
+      "menshi": 123,
+      "canci": 12345,
+      "unitName": "套",
+      "foreignCurrencyPrice": 120,
+      "rempurchasePrice": 140,
+      "salesPrice": 160,
+      "batchSalesPrice": 150,
+      "originPlace": "努巴尼",
+      "partsBrand": "纯正",
+      "remark": "备注12345"
+    },
+    {
+      "partsCode": "0411-12345",
+      "partsName": "发动机大修包",
+      "carType": "ZZE122AVC",
+      "warehouse": 999,
+      "menshi": 123,
+      "canci": 12345,
+      "unitName": "套",
+      "foreignCurrencyPrice": 120,
+      "rempurchasePrice": 140,
+      "salesPrice": 160,
+      "batchSalesPrice": 150,
+      "originPlace": "努巴尼",
+      "partsBrand": "纯正",
+      "remark": "备注12345"
+    },
+    {
+      "partsCode": "0411-12345",
+      "partsName": "发动机大修包",
+      "carType": "ZZE122AVC",
+      "warehouse": 999,
+      "menshi": 123,
+      "canci": 12345,
+      "unitName": "套",
+      "foreignCurrencyPrice": 120,
+      "rempurchasePrice": 140,
+      "salesPrice": 160,
+      "batchSalesPrice": 150,
+      "originPlace": "努巴尼",
+      "partsBrand": "纯正",
+      "remark": "备注12345"
+    },
+    {
+      "partsCode": "0411-12345",
+      "partsName": "发动机大修包",
+      "carType": "ZZE122AVC",
+      "warehouse": 999,
+      "menshi": 123,
+      "canci": 12345,
+      "unitName": "套",
+      "foreignCurrencyPrice": 120,
+      "rempurchasePrice": 140,
+      "salesPrice": 160,
+      "batchSalesPrice": 150,
+      "originPlace": "努巴尼",
+      "partsBrand": "纯正",
+      "remark": "备注12345"
+    }
+  ]
+}
