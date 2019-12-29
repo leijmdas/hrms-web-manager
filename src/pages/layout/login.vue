@@ -187,7 +187,7 @@
 
             span {
                 font-size: 36px;
-                color: #208BEF;
+                color: mediumblue;
                 letter-spacing: 0;
             }
         }

@@ -8,10 +8,10 @@
                 <span>ERP</span>
             </el-menu-item>
 
-            <!--<el-menu-item v-show="isadmin=='true'" index="domain_parking"><span-->
-                <!--class="ele-icon el-icon-ipyunyingguanli"></span><span>运营</span>-->
-            <!--</el-menu-item>-->
-            <!---->
+            <el-menu-item v-show="isadmin=='true'" index="domain_parking"><span
+                class="ele-icon el-icon-ipyunyingguanli"></span><span>人事</span>
+            </el-menu-item>
+
             <!--<el-menu-item index="domain_maintenance"><span-->
                 <!--class="ele-icon el-icon-ipyunyingbaobiao"></span><span>运维</span>-->
             <!--</el-menu-item>-->
@@ -162,7 +162,7 @@
             return {
                 isadmin: 'true',
                 activeIndex: '0-3',
-                domainIndex: 'domain_dongxw',
+                domainIndex: 'domain_parking',
                 permRouters: [],
                 msgPage: {
                     data: [],
